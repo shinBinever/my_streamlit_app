@@ -1,3 +1,6 @@
 streamlit
+pandas
 pymysql
 plotly
+numpy
+scikit-learn
